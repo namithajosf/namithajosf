@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently focused on sharpening my coding skills and revisiting the basics to build a solid foundation.<br>Currently learning Go and working on an academic project that keeps me excited about coding and problem-solving.<br>Always eager to learn and grow in the world of tech! 🚀
+I’m currently focused on sharpening my coding skills and revisiting the basics to build a solid foundation.<br>Working on an academic project that keeps me excited about coding and problem-solving.<br>Always eager to learn and grow in the world of tech! 🚀
 
 
 ## 🌐 Socials:

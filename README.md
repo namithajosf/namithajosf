@@ -1,5 +1,5 @@
 Hey there! <br/>
-I’m Namitha, a developer based in Kerala, India. <br/>
+I’m [Namitha](https://namithajosf.github.io/), a developer based in Kerala, India. <br/>
 
 I love solving everyday problems with code and building things that make life easier. I’m always learning and leveling up my skills. Right now, I’m diving into Golang. <br/>
 

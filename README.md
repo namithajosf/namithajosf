@@ -1,4 +1,6 @@
-Hey there!
-I’m [Namitha](https://namithajosf.github.io/),
-I’m currently focused on sharpening my coding skills and revisiting the basics to build a solid foundation.<br>Working on projects that keeps me excited about coding and problem-solving.<br>Always eager to learn and grow in the world of tech!
+Hey there! <br/>
+I’m Namitha, a developer based in Kerala, India. <br/>
 
+I love solving everyday problems with code and building things that make life easier. I’m always learning and leveling up my skills. Right now, I’m diving into Golang. <br/>
+
+Outside of tech, I’m obsessed with Formula 1, enjoy pop music, and I’m always up for a good movie night!
